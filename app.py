@@ -45,7 +45,7 @@ st.set_page_config(
 )
 
 # GitHub ZIP URL (configure this with your repository)
-GITHUB_ZIP_URL = "https://github.com/pravinraut05/Dataset/raw/main/orders.zip"
+GITHUB_ZIP_URL = "https://github.com/pravinraut05/Dataset/raw/main/effects-of-covid-19-on-trade-at-15-december-2021-provisional.zip"
 
 # Initialize session state variables
 def initialize_session_state():
